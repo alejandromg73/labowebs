@@ -334,3 +334,6 @@ Incluyo en la carpeta `docs`:
 - Carpeta con imágenes
 - PDF
 
+![image-20241115091619562](./TAREAENTREGABLEGIT.assets/image-20241115091619562.png)
+
+Subo todo al remoto mediante Sourcetree
